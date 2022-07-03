@@ -1,0 +1,15 @@
+.container{
+    width: 50%;
+    height: auto;
+    text-align: center;
+}
+
+h1{
+    background-color: blanchedalmond;
+    padding: 10px;
+}
+
+p{
+    background-color: bisque;
+    padding: 10px;
+}
